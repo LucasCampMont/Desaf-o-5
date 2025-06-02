@@ -5,14 +5,12 @@ body {
     background-color: black !important; /* Cambia este código por el color que quieras */
 }
 
-
 #Hero-Section {
   background-image: url("../img/foto-perfil.jpg");
   background-repeat: no-repeat;
   background-size:500px;
   background-position: left;
 }
-
 
 /* Mis trabajos */
 
